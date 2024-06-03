@@ -10,7 +10,7 @@ setup(
     classifiers=["Programming Language :: Python :: 3 :: Only"],
     py_modules=["tap_tiktok_ads"],
     install_requires=[
-        "singer-python==6.0.0",
+        "singer-python==6.0.1",
         "requests==2.31.0",
     ],
     extras_require={
